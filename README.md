@@ -83,9 +83,6 @@
 <h2 align="center">⚡ GitHub Activity ⚡</h2>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ClydeQue&theme=react&hide_border=true" alt="GitHub contribution streak">
-  </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClydeQue&theme=react" alt="GitHub statistics">
   </a>
