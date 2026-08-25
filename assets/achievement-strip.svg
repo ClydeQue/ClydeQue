@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Selected achievements</title>
+  <desc id="desc">Build with AI first runner-up, Region IX tourism winner, and 29 percent Top-1 retrieval accuracy improvement.</desc>
+  <defs>
+    <linearGradient id="card1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2e1065"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="card2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#083344"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="card3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#052e16"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  </defs>
+  <rect x="0" y="15" width="376" height="180" rx="22" fill="url(#card1)" stroke="#8b5cf6" stroke-opacity=".45"/>
+  <rect x="412" y="15" width="376" height="180" rx="22" fill="url(#card2)" stroke="#22d3ee" stroke-opacity=".45"/>
+  <rect x="824" y="15" width="376" height="180" rx="22" fill="url(#card3)" stroke="#34d399" stroke-opacity=".45"/>
+  <text x="28" y="52" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.5">BUILD WITH AI 2026</text>
+  <text x="28" y="101" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="29" font-weight="750">1st Runner-Up</text>
+  <text x="28" y="136" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Frontend lead · Weaveable</text>
+  <text x="28" y="166" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">TEAM OF FIVE</text>
+  <text x="440" y="52" fill="#a5f3fc" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.5">TOURISM STARTUP</text>
+  <text x="440" y="101" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="29" font-weight="750">Region IX Winner</text>
+  <text x="440" y="136" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Anyam · National qualifier</text>
+  <text x="440" y="166" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">PRODUCT DESIGN</text>
+  <text x="852" y="52" fill="#a7f3d0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.5">MEASURED RESULT</text>
+  <text x="852" y="101" fill="#ffffff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="29" font-weight="750">+29% Top-1</text>
+  <text x="852" y="136" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Offline retrieval accuracy</text>
+  <text x="852" y="166" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">MRR +0.117</text>
+</svg>

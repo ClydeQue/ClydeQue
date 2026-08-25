@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Kenneth Clyde Que - Software Engineer</title>
+  <desc id="desc">Dark gradient profile banner for a software engineer and full-stack product builder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset=".55" stop-color="#0b1730"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".24"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="55" r="230" fill="url(#glow)" filter="url(#soft)"><animate attributeName="opacity" values=".55;1;.55" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="110" cy="330" r="190" fill="#8b5cf6" opacity=".07" filter="url(#soft)"/>
+  <rect x="70" y="62" width="112" height="32" rx="16" fill="#172554" stroke="#22d3ee" stroke-opacity=".45"/>
+  <circle cx="89" cy="78" r="5" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <text x="104" y="83" fill="#cbd5e1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1">AVAILABLE</text>
+  <text x="70" y="156" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="51" font-weight="750" letter-spacing="-1.5">KENNETH CLYDE QUE</text>
+  <rect x="70" y="180" width="545" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="70" y="230" fill="#a5f3fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="2">SOFTWARE ENGINEER</text>
+  <text x="390" y="230" fill="#64748b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">·</text>
+  <text x="420" y="230" fill="#c4b5fd" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="1">FULL-STACK PRODUCT BUILDER</text>
+  <text x="70" y="285" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">payments / offline systems / cloud delivery / operational platforms</text>
+  <text x="70" y="320" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">ZAMBOANGA CITY, PHILIPPINES</text>
+  <path d="M1050 262h60m-30-30v60" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".75"><animateTransform attributeName="transform" type="rotate" from="0 1080 262" to="360 1080 262" dur="18s" repeatCount="indefinite"/></path>
+</svg>
