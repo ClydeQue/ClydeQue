@@ -1,27 +1,20 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Kenneth Clyde Que - Software Engineer and Full-Stack Product Builder" src="./assets/hero-light.svg" width="100%">
+  <img alt="Software projects and systems" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
   <a href="https://kcque.dev"><strong>Portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kenneth-que/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:kennethque101@gmail.com"><strong>Email</strong></a>
+  <a href="https://github.com/ClydeQue?tab=repositories"><strong>Public repositories</strong></a>
 </p>
 
-## Software Engineer building products people can rely on
+## Full-stack products and systems
 
-I'm Kenneth Clyde Que, a software engineer based in Zamboanga City, Philippines.
-I work across payment workflows, authenticated services, webhooks, staging
-validation, offline-first applications, and operational platforms. I enjoy
-following a product end to end: from the interface and API contract to database
-invariants, background work, deployment, and real-world verification.
-
-I currently work as a **Software Engineer at Ngnair Payments** while completing
-my Bachelor of Science in Computer Science at Ateneo de Zamboanga University.
+This profile presents selected work across web, desktop, mobile, offline-first,
+and operational software. Each project is described through its problem,
+architecture, delivery boundaries, and technology choices.
 
 ## Selected distinctions
 
@@ -143,50 +136,14 @@ in the Tourism Startup Challenge 2025** and advanced as a national qualifier.
 | **Delivery and tooling** | Docker, Cloudflare, Vercel, Supabase, GitHub, Postman, pnpm/npm |
 | **Design and communication** | Figma, architecture diagrams, technical documentation, evidence-based QA |
 
-<details>
-<summary><strong>How I think about engineering</strong></summary>
+## Engineering patterns across these projects
 
-<br>
-
-- I prefer simple architecture until measured evidence justifies more complexity.
-- I keep authoritative business state separate from background jobs and delivery.
-- I design retries, idempotency, offline behavior, and failure recovery explicitly.
-- I distinguish implemented behavior from local tests, staging evidence, provider
-  integration, and production verification.
-- I use AI as a learning and engineering tool, not as a substitute for understanding
-  the code and systems I build.
-- I value explanations that connect the technical decision to the user and
-  operational problem it solves.
-
-</details>
-
-<details>
-<summary><strong>What I'm exploring now</strong></summary>
-
-<br>
-
-- Reliable payment and onboarding workflows across micro-frontend and service boundaries
-- Offline-first desktop and operational systems
-- NestJS and ASP.NET Core backend architecture
-- PostgreSQL concurrency, idempotency, queues, and background workers
-- Mobile-first campus platforms that replace avoidable manual processes
-- Security, deployment, observability, and evidence-driven release practices
-
-</details>
-
-## Beyond the code
-
-What motivates me is turning complicated workflows into products that feel
-clear to the people using them. I like learning the whole system rather than
-stopping at one framework: how a request moves through the interface, service,
-database, worker, infrastructure, and verification process.
-
-I care about building useful software, explaining it honestly, and improving
-through real constraints, collaboration, and measurable results.
-
-<p align="center">
-  <strong>Have a product, system, or collaboration in mind?</strong><br>
-  <a href="https://kcque.dev">Explore my work</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kenneth-que/">Connect on LinkedIn</a>
-</p>
+- Simple architecture until measured requirements justify additional complexity
+- Authoritative database state separated from background jobs and delivery
+- Explicit idempotency, retries, offline behavior, and failure recovery
+- Clear boundaries between local tests, staging evidence, provider integration,
+  and production verification
+- Reusable frontend capabilities and focused backend modules instead of
+  oversized catch-all files
+- Technical documentation that connects architecture decisions to product and
+  operational requirements
