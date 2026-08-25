@@ -23,9 +23,12 @@ invariants, background work, deployment, and real-world verification.
 I currently work as a **Software Engineer at Ngnair Payments** while completing
 my Bachelor of Science in Computer Science at Ateneo de Zamboanga University.
 
-<picture>
-  <img alt="Selected achievements: Build with AI runner-up, Region IX tourism winner, and measured retrieval improvement" src="./assets/achievement-strip.svg" width="100%">
-</picture>
+## Selected distinctions
+
+- **1st Runner-Up, Build with AI Hackathon 2026** — led frontend development
+  for Weaveable with a five-person team.
+- **Region IX Winner, Tourism Startup Challenge 2025** — built Anyam as
+  frontend engineer and advanced with the team as a national qualifier.
 
 ## Selected engineering work
 
@@ -58,7 +61,6 @@ SCORM courses before publishing them to an LMS.
 - SCORM parsing and playback simulation
 - Local telemetry and QA workflows
 - Offline Python/FastAPI retrieval service
-- Retrieval improvement of 29% Top-1 accuracy and 0.117 MRR
 
 **Stack:** C# · ASP.NET Core · Python · FastAPI · SQLite
 
