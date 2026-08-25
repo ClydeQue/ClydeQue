@@ -13,10 +13,10 @@
   <circle cx="110" cy="330" r="190" fill="#8b5cf6" opacity=".07" filter="url(#soft)"/>
   <text x="70" y="145" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="51" font-weight="750" letter-spacing="-1.5">SOFTWARE PROJECTS &amp; SYSTEMS</text>
   <rect x="70" y="180" width="545" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="70" y="230" fill="#a5f3fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="1.5">FULL-STACK ENGINEERING</text>
-  <text x="410" y="230" fill="#64748b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">·</text>
-  <text x="440" y="230" fill="#c4b5fd" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="1">RELIABLE PRODUCT DELIVERY</text>
-  <text x="70" y="285" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">web / desktop / mobile / offline / cloud</text>
+  <text x="70" y="230" fill="#a5f3fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="1.5">.NET / ASP.NET CORE</text>
+  <text x="390" y="230" fill="#64748b" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">·</text>
+  <text x="420" y="230" fill="#c4b5fd" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="650" letter-spacing="1">NESTJS SYSTEMS</text>
+  <text x="70" y="285" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">C# / TypeScript / PostgreSQL / Docker</text>
   <text x="70" y="320" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">ARCHITECTURE / DATA / DELIVERY / OPERATIONS</text>
   <path d="M1050 262h60m-30-30v60" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".75"><animateTransform attributeName="transform" type="rotate" from="0 1080 262" to="360 1080 262" dur="18s" repeatCount="indefinite"/></path>
 </svg>

@@ -16,6 +16,9 @@ This profile presents selected work across web, desktop, mobile, offline-first,
 and operational software. Each project is described through its problem,
 architecture, delivery boundaries, and technology choices.
 
+The primary backend stack is **.NET / ASP.NET Core and NestJS**, supported by
+TypeScript, C#, PostgreSQL, Docker, React, and Next.js across the projects below.
+
 ## Selected distinctions
 
 - **1st Runner-Up, Build with AI Hackathon 2026** — led frontend development
@@ -130,9 +133,10 @@ in the Tourism Startup Challenge 2025** and advanced as a national qualifier.
 
 | Capability | Technologies |
 | --- | --- |
+| **Primary backend stack** | C#, .NET, ASP.NET Core, TypeScript, NestJS |
 | **Product interfaces** | TypeScript, JavaScript, React, Next.js, React Native, Tauri, Tailwind CSS, MUI |
-| **Backend systems** | NestJS, Fastify, GraphQL, ASP.NET Core, FastAPI, Express, REST/OpenAPI |
 | **Data and reliability** | PostgreSQL, SQLite, MySQL, Prisma, EF Core, idempotency, outbox and retry patterns |
+| **Project-specific services** | Fastify, GraphQL, FastAPI, Express, REST/OpenAPI |
 | **Delivery and tooling** | Docker, Cloudflare, Vercel, Supabase, GitHub, Postman, pnpm/npm |
 | **Design and communication** | Figma, architecture diagrams, technical documentation, evidence-based QA |
 
