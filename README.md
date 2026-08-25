@@ -1,153 +1,154 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Software projects and systems" src="./assets/hero-light.svg" width="100%">
-</picture>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ClydeQue.ClydeQue" alt="Profile views">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+%F0%9F%91%8B;I'm+Kenneth+Clyde+Que;Software+Engineer;I+build+systems+that+work.&center=true&size=30&color=61DAFB" alt="Animated introduction">
+  </a>
+</h1>
+
+<h5 align="center">
+  <code><a href="https://kcque.dev" title="Project portfolio">🌐 Portfolio</a></code>
+  <code><a href="https://github.com/ClydeQue?tab=repositories" title="Public repositories">🧰 Repositories</a></code>
+</h5>
 
 <p align="center">
-  <a href="https://kcque.dev"><strong>Portfolio</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ClydeQue?tab=repositories"><strong>Public repositories</strong></a>
+  I build operational software across web, desktop, mobile, and offline-first environments.
+  <br><br>
+  🧩 My primary backend stacks are <strong>.NET / ASP.NET Core</strong> and <strong>NestJS</strong>
+  <br>
+  🏗️ I focus on modular architecture, reliable data flows, background work, and maintainable interfaces
+  <br>
+  🚦 I am currently shaping <strong>EzQueue</strong>, a same-day queue management system for university offices
+  <br>
+  🖥️ I also build inventory, sales, learning-quality, navigation, and service platforms
+  <br>
+  📚 I use every project to deepen my understanding of architecture, delivery, and operational reliability
 </p>
 
-## Full-stack products and systems
+<hr>
 
-This profile presents selected work across web, desktop, mobile, offline-first,
-and operational software. Each project is described through its problem,
-architecture, delivery boundaries, and technology choices.
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
-The primary backend stack is **.NET / ASP.NET Core and NestJS**, supported by
-TypeScript, C#, PostgreSQL, Docker, React, and Next.js across the projects below.
+<h4 align="center">Backend and application development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nestjs,nodejs,express,python,django,fastapi,java&perline=10" alt="Backend technologies">
+</p>
 
-## Selected distinctions
+<h4 align="center">Web, mobile and desktop interfaces</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui,html,css,js&perline=8" alt="Interface technologies">
+</p>
+<p align="center">
+  React Native · Expo · Avalonia · Photino.NET · TanStack Query · Radix UI · GSAP · Leaflet · Konva
+</p>
 
-- **1st Runner-Up, Build with AI Hackathon 2026** — led frontend development
-  for Weaveable with a five-person team.
-- **Region IX Winner, Tourism Startup Challenge 2025** — built Anyam as
-  frontend engineer and advanced with the team as a national qualifier.
+<h4 align="center">Data, infrastructure and delivery</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis,supabase,docker,cloudflare,vercel,aws,git,github,githubactions&perline=12" alt="Data and delivery technologies">
+</p>
+<p align="center">
+  EF Core · Prisma · BullMQ · REST/OpenAPI · SSE · SignalR · SMTP · Web Push · Upstash Redis · AWS S3
+</p>
 
-## Selected engineering work
+<h4 align="center">Quality, AI and engineering tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vitest,playwright,postman,figma,pytorch,sklearn&perline=6" alt="Quality and AI tools">
+</p>
+<p align="center">
+  xUnit · Testcontainers · Serilog · FluentValidation · Zod · React Hook Form · Hugging Face Transformers · Gemini
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><strong>Technology breakdown by system</strong></summary>
+<br>
 
-### Suntastic Solar IMS
-
-A full-stack inventory and sales platform with ASP.NET Core as the sole
-PostgreSQL writer behind a Next.js dashboard and Tauri terminal.
-
-- Offline school sales through a SQLite outbox
-- Idempotent sync, retry, and dead-letter handling
-- Quotations, inventory, receivables, documents, and audit controls
-- Reduced cold dashboard calls from 6 to 1 and report calls from 3 to 1
-
-**Stack:** ASP.NET Core · EF Core · PostgreSQL · Next.js · Tauri · SQLite · Docker
-
-[View the case study →](https://kcque.dev/#projects)
-
-</td>
-<td width="50%" valign="top">
-
-### Project SILIP
-
-A local desktop tool that helps e-learning teams inspect, debug, and validate
-SCORM courses before publishing them to an LMS.
-
-- SCORM parsing and playback simulation
-- Local telemetry and QA workflows
-- Offline Python/FastAPI retrieval service
-
-**Stack:** C# · ASP.NET Core · Python · FastAPI · SQLite
-
-[View repository →](https://github.com/ClydeQue/Project-Silip)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### EzQueue
-
-A mobile-first same-day queue management system designed for Ateneo de
-Zamboanga University offices.
-
-- Independent office-service queues
-- PostgreSQL-authoritative ordering and ticket transitions
-- NestJS API and worker entry points
-- Redis/BullMQ post-commit work, SMTP/Web Push, and SSE architecture
-
-**Stack:** Next.js · NestJS · PostgreSQL · Redis · BullMQ · SSE
-
-*Private development project · architecture and foundation in progress*
-
-</td>
-<td width="50%" valign="top">
-
-### Social Development Unit Platform
-
-An operational monitoring platform that replaced spreadsheet and group-chat
-reporting across six university offices.
-
-- Shared role-based layouts and controlled report workflows
-- TanStack Query caching and invalidation
-- SDG and strategic-goal mapping
-- Printable monthly PDF reports and deadline notifications
-
-**Stack:** React 19 · Vite · MUI · Express · Supabase · PostgreSQL
-
-[View repository →](https://github.com/ClydeQue/ADZU-Social-Development-Unit)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Weaveable
-
-An AI-assisted sustainable wardrobe application developed with a five-person
-team. I led frontend development and the project earned **1st Runner-Up at the
-Build with AI Hackathon 2026**.
-
-**Stack:** React Native · AI integration · Product collaboration
-
-[View repository →](https://github.com/ClydeQue/Hackathon2026)
-
-</td>
-<td width="50%" valign="top">
-
-### Anyam
-
-A tourism product where I worked as frontend engineer. The team won **Region IX
-in the Tourism Startup Challenge 2025** and advanced as a national qualifier.
-
-**Focus:** Mobile interface · Product design · Team delivery
-
-[View portfolio →](https://kcque.dev/#projects)
-
-</td>
-</tr>
-</table>
-
-## Stack, organized by responsibility
-
-| Capability | Technologies |
+| System | Technology stack |
 | --- | --- |
-| **Primary backend stack** | C#, .NET, ASP.NET Core, TypeScript, NestJS |
-| **Product interfaces** | TypeScript, JavaScript, React, Next.js, React Native, Tauri, Tailwind CSS, MUI |
-| **Data and reliability** | PostgreSQL, SQLite, MySQL, Prisma, EF Core, idempotency, outbox and retry patterns |
-| **Project-specific services** | Fastify, GraphQL, FastAPI, Express, REST/OpenAPI |
-| **Delivery and tooling** | Docker, Cloudflare, Vercel, Supabase, GitHub, Postman, pnpm/npm |
-| **Design and communication** | Figma, architecture diagrams, technical documentation, evidence-based QA |
+| **Suntastic Solar IMS** | .NET 10, ASP.NET Core, EF Core, PostgreSQL, Redis, Next.js, React, TypeScript, Tailwind CSS, TanStack Query, Radix UI, Tauri, SQLite, Docker, Cloudflare Workers/OpenNext, AWS S3, QuestPDF, ImageSharp, xUnit, Testcontainers, Playwright |
+| **Project SILIP** | .NET 10, ASP.NET Core, EF Core, SQLite, Photino.NET, React, TypeScript, Vite, TanStack Query, SignalR, SCORM Again, Python, FastAPI, Hugging Face Transformers, PyTorch, sentence-transformers, scikit-learn, Docker, Serilog, FluentValidation, xUnit, Playwright |
+| **EzQueue** | Next.js, React, TypeScript, NestJS, Prisma, PostgreSQL, Redis, BullMQ, REST/OpenAPI, authenticated SSE, SMTP, Web Push, Docker |
+| **POS and Inventory System** | .NET 10, ASP.NET Core, EF Core, PostgreSQL, SQLite, Avalonia UI, React, TypeScript, Vite, Tailwind CSS, Docker, xUnit |
+| **ADZU Social Development Unit Platform** | React, Vite, Material UI, Tailwind CSS, TanStack Query, FullCalendar, Recharts, React PDF, Express, Supabase, PostgreSQL, JWT, Helmet, rate limiting |
+| **Weaveable** | Expo, React Native, TypeScript, Supabase, Google Gemini, Express, camera and image APIs, location services, secure local storage |
+| **Hospital Navigation System** | Next.js, React, TypeScript, Leaflet, React Leaflet, Konva, GSAP, Material UI, Tailwind CSS, browser speech recognition |
+| **Wash & Go** | React, TanStack Start, TanStack Router, TypeScript, Tailwind CSS, Django, Django REST Framework, PostgreSQL, JWT, Docker, Vitest |
+| **Leo Rent A Car** | React, Vite, Tailwind CSS, Google Maps, React Email, Resend, EmailJS, Express, Vercel Analytics |
+| **HealthMate** | Next.js, React, TypeScript, Supabase, React Hook Form, Zod, AI SDK, Recharts, Radix UI, Tailwind CSS |
+| **Personal Portfolio** | React, Vite, Tailwind CSS, GSAP, Lenis, React Spring, Swiper, React PDF, Vercel Analytics |
 
-## Engineering patterns across these projects
+</details>
 
-- Simple architecture until measured requirements justify additional complexity
-- Authoritative database state separated from background jobs and delivery
-- Explicit idempotency, retries, offline behavior, and failure recovery
-- Clear boundaries between local tests, staging evidence, provider integration,
-  and production verification
-- Reusable frontend capabilities and focused backend modules instead of
-  oversized catch-all files
-- Technical documentation that connects architecture decisions to product and
-  operational requirements
+<hr>
+
+<h2 align="center">⚡ GitHub Activity ⚡</h2>
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=ClydeQue&theme=react&hide_border=true" alt="GitHub contribution streak">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClydeQue&theme=react" alt="GitHub statistics">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClydeQue&theme=react" alt="Public repositories by language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClydeQue&theme=react" alt="Most-used commit languages">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClydeQue&theme=react" width="100%" alt="GitHub contribution profile details">
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+
+<p align="center">
+  <a href="https://github.com/ClydeQue/Project-Silip">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/Project-Silip" alt="Project SILIP repository">
+  </a>
+  <a href="https://github.com/ClydeQue/ADZU-Social-Development-Unit">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/ADZU-Social-Development-Unit" alt="ADZU Social Development Unit repository">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ClydeQue/Hackathon2026">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/Hackathon2026" alt="Hackathon 2026 repository">
+  </a>
+  <a href="https://github.com/ClydeQue/hospital-navigation-system">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/hospital-navigation-system" alt="Hospital navigation system repository">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ClydeQue/personal-portfolio">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/personal-portfolio" alt="Personal portfolio repository">
+  </a>
+  <a href="https://github.com/ClydeQue/ProjectSILIP-Releases">
+    <img width="390" src="https://opengraph.githubassets.com/profile-clydeque-20260825/ClydeQue/ProjectSILIP-Releases" alt="Project SILIP releases repository">
+  </a>
+</p>
+
+<h4 align="center">
+  <a href="https://github.com/ClydeQue?tab=repositories" title="Show all public repositories">🔎 Show More 🔍</a>
+</h4>
+
+<hr>
+
+<h2 align="center">🏆 Project Distinctions</h2>
+
+<p align="center">
+  <strong>1st Runner-Up — Build with AI Hackathon 2026</strong>
+  <br>
+  Weaveable · Frontend lead in a five-person product team
+  <br><br>
+  <strong>Region IX Winner and National Qualifier — Tourism Startup Challenge 2025</strong>
+  <br>
+  Anyam · Frontend engineering and team delivery
+</p>
