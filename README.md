@@ -31,7 +31,7 @@
 
 <h4 align="center">Backend and application development</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nestjs,nodejs,express,python,django,fastapi,java&perline=10" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nestjs,nodejs,express,python,fastapi&perline=10" alt="Backend technologies">
 </p>
 
 <h4 align="center">Web, mobile and desktop interfaces</h4>
